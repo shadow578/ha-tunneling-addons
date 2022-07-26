@@ -2,7 +2,7 @@ name: "Playit"
 description: "Playit.gg agent"
 version: "1.0.0"
 slug: "playit_gg"
-url: "https://github.com/shadow578/ha-playit-addon/playit"
+url: "https://github.com/shadow578/ha-playit-addon/tree/main/playit"
 init: false
 arch:
   - aarch64
