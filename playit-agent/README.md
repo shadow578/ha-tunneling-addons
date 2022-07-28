@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Playit add-on
+# Home Assistant Add-on: playit-agent add-on
 
 _Playit agent addon_
 

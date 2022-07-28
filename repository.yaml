@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Home Assistant Playit add-on repository
-url: "https://github.com/shadow578/ha-playit-addon"
+name: Home Assistant Tunneling add-on repository
+url: "https://github.com/shadow578/ha-tunneling-addons"
 maintainer: shadow578 <52449218+shadow578@users.noreply.github.com>
