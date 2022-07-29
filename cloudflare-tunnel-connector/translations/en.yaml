@@ -1,0 +1,8 @@
+---
+configuration:
+  token:
+    name: Cloudflare Tunnel Connector Token
+    description: >-
+      The Cloudflare authentification and configuration token found in the tunnel configuration
+      in the zero-trust dashboard. 
+      The token is required to link cloudflared to your account and to configure the tunnels.

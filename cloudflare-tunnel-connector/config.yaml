@@ -1,0 +1,16 @@
+slug: "cloudflare_tunnel_connector"
+version: "1.0.0"
+name: "Cloudflare Tunnel Connector"
+description: "Cloudflare Zero-Trust Tunnel Connector"
+url: "https://github.com/shadow578/ha-tunneling-addons/tree/main/cloudflare-tunnel-connector"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armv7
+  - armhf
+  - i386
+options:
+  token: null
+schema:
+  token: str
