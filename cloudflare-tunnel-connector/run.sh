@@ -10,5 +10,5 @@ bashio::log.info "cloudflared version:"
 
 # run tunnel
 bashio::log.info "starting cloudflared tunnel"
-/bin/cloudflared tunnel run --no-autoupdate --token $TOKEN 
+/bin/cloudflared --no-autoupdate tunnel run --token $TOKEN
 bashio::log.info "cloudflared shut down"
