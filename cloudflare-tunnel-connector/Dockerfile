@@ -15,7 +15,7 @@ RUN set -x \
   && if [[ "$BUILD_ARCH" = "armhf" ]]; then ARCH="arm"; fi \
   && curl --output /bin/cloudflared -L https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-${ARCH}
 RUN chmod a+x /bin/cloudflared
-RUN /bin/cloudflared --version
+RUN /bin/cloudflared --no-autoupdate --version
 
 # copy launch script
 COPY run.sh /

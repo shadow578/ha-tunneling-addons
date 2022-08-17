@@ -1,5 +1,5 @@
 slug: "cloudflare_tunnel_connector"
-version: "1.0.0"
+version: "1.0.1"
 name: "Cloudflare Tunnel Connector"
 description: "Cloudflare Zero-Trust Tunnel Connector"
 url: "https://github.com/shadow578/ha-tunneling-addons/tree/main/cloudflare-tunnel-connector"
